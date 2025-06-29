@@ -1,7 +1,7 @@
 # 🦉 NightjarsArsenal  
 **by BurnedPort**
 
-A personal cybersecurity toolkit forged from spite, obsession, and a deep fascination with system weakness. Each tool in this arsenal is hand-crafted — no bloat, no filler, just surgical precision.
+A personal cybersecurity toolkit forged from spite, obsession, and a deep fascination with system weakness. Each tool in this arsenal is hand-crafted - no bloat, no filler, just surgical precision.
 
 > *Built to recon. Built to exploit. Built to haunt logs forever.*
 
