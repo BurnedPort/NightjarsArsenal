@@ -1,4 +1,4 @@
-# 🦉 NightjarsArsenal  
+# NightjarsArsenal  
 **by BurnedPort**
 
 A personal cybersecurity toolkit forged from spite, obsession, and a deep fascination with system weakness. Each tool in this arsenal is hand-crafted - no bloat, no filler, just surgical precision.
@@ -7,9 +7,9 @@ A personal cybersecurity toolkit forged from spite, obsession, and a deep fascin
 
 ---
 
-## ⚙️ Current Modules
+## Current Modules
 
-### 👁️ Monocular  
+### Monocular  
 > A lightweight yet sharp-eyed TCP port scanner with banner-grabbing functionality.  
 > Built for speed. Built for stealth. Built to peek before you pounce.
 
@@ -25,7 +25,7 @@ py Monocular.py -t scanme.nmap.org -s 1 -e 100
 
 ---
 
-### 🦅 Talon  
+### Talon  
 > A stealthy, adaptive login bruteforcer designed to rip through weak auth.  
 > Integrates with MistRaven for cloaking. Lightweight, modular, and lethal.
 
@@ -42,7 +42,7 @@ py Talon.py -u http://localhost:5000/login -U users.txt -P passwords.txt -f user
 
 ---
 
-### 🌫️ MistRaven  
+### MistRaven  
 > A stealth-layer library for Talon and future tools.  
 > Randomizes headers, adds delay variance, helps evade detection.
 
@@ -52,7 +52,7 @@ py Talon.py -u http://localhost:5000/login -U users.txt -P passwords.txt -f user
 
 ---
 
-### 🪓 Clutch  
+### Clutch  
 > A directory brute-forcer designed to rip through obscurity.  
 > Finds hidden paths, dev panels, backup files, and more.
 
@@ -67,7 +67,7 @@ py Clutch.py -u http://target.com -w wordlists/dirs.txt
 
 ---
 
-## 🔜 Roadmap
+## Roadmap
 
 - Rule-based password mutation engine (mutate_mode)
 - Markov chain password prediction
@@ -77,7 +77,7 @@ py Clutch.py -u http://target.com -w wordlists/dirs.txt
 
 ---
 
-## 🖤 Philosophy
+## Philosophy
 
 **NightjarsArsenal** isn’t meant to impress companies.  
 It’s built for self-mastery, practical skill, and walking your own path through the world of exploitation.  
